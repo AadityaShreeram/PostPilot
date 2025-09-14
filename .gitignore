@@ -1,0 +1,16 @@
+# Node
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Environment
+.env
+token.json
+credentials/
+*.log
+
+# Media files
+/media/
+
+# WhatsApp auth sessions
+/auth/
